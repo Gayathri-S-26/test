@@ -1,0 +1,5 @@
+{{#user}}
+Name: Gayathri S
+Skills: HTML, CSS, JS, React.js, MySQL, MongoDB, Java
+Email: gayathriselvaraj4@gmail.com
+{{/user}}
