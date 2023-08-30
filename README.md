@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center"> 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Face.png" alt="Grinning Face" width="50" height="50" />
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="175" height="175" />
@@ -135,3 +136,6 @@ The UI will look something like this:
 
 
 <hr>
+=======
+# test
+>>>>>>> fb42e65726594257e256de2a9341d13da116b1c1
